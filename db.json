@@ -8,8 +8,187 @@
   ],
   "profile": { "name": "typicode" },
   "intra-apps" : [
-    {"id" : 1, "name" : "E-Kehadiran", "url" : "https://google.com", "icon-mobile" : "Icon.home" },
-     {"id" : 2, "name" : "Simarni", "url" : "https://google.com", "icon-mobile" : "Icon.home" },
-     {"id" : 3, "name" : "Sijuki", "url" : "https://google.com", "icon-mobile" : "Icon.home" }
+    {
+        "id": 3,
+        "name": "Forum",
+        "url": "forum/beranda",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 6,
+        "name": "Agenda",
+        "url": null,
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 31,
+        "name": "Admin Pusat",
+        "url": "https://intra.bpip.go.id/admin/admin/index",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 5,
+        "name": "TNDE",
+        "url": "http://10.104.0.12/tnde/home/index",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 11,
+        "name": "TNDE",
+        "url": "http://10.104.0.12/tnde/home/index",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 136,
+        "name": "Daftar Hadir",
+        "url": "home/go_to_daftar_hadir_rapat",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 63,
+        "name": "SIATAP V2",
+        "url": "https://siatapv2.bpip.go.id/",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 139,
+        "name": "EMAIL BPIP",
+        "url": "home/b3364254d621134dad1c13a59f3ad5d93ccab3bd",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 143,
+        "name": "JDIH BPIP",
+        "url": "home/go_to_jdih",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 135,
+        "name": "SSO ADMIN",
+        "url": "https://sso.bpip.go.id/auth/mail_resend",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 38,
+        "name": "Admin Forum",
+        "url": "forum/admin/beranda",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 137,
+        "name": "Helpdesk",
+        "url": "https://helpdesk.bpip.go.id",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 141,
+        "name": "APII-KINERJA BPIP",
+        "url": "https://apii-kinerja.bpip.go.id/publik",
+        "icon-mobile": null,
+        "is-app-intra": fase
+    },
+    {
+        "id": 144,
+        "name": "SIMPATI",
+        "url": "https://app.bpip.go.id/simpati/index.php/outerapp",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 142,
+        "name": "SILARAS",
+        "url": "home/go_to_silaras",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 138,
+        "name": "E-ASET TIK",
+        "url": "home/go_to_glpi",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 90,
+        "name": "Digital Signature",
+        "url": "dsign/home",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 146,
+        "name": "PRESENSI PEGAWAI",
+        "url": "https://presensi.bpip.go.id/curl.aspx",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 140,
+        "name": "CLOUD BPIP",
+        "url": "https://files.bpip.go.id",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 145,
+        "name": "JURNAL PANCASILA",
+        "url": "https://ejurnalpancasila.bpip.go.id/index.php/PJK",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 147,
+        "name": "Srikandi",
+        "url": "home/go_to_srikandi",
+        "icon-mobile": null,
+        "is-app-intra": true
+    },
+    {
+        "id": 59,
+        "name": "SIJUKI",
+        "url": "https://sijuki.bpip.go.id/home/index",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 69,
+        "name": "SIJUKI",
+        "url": "https://sijuki.bpip.go.id/home/index",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 150,
+        "name": "Presensi ",
+        "url": "https://presensi.bpip.go.id/curl.aspx",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 151,
+        "name": "SKP BPIP",
+        "url": "https://skp.bpip.go.id/",
+        "icon-mobile": null,
+        "is-app-intra": false
+    },
+    {
+        "id": 149,
+        "name": "Registrasi LMS , Akreditasi dan Sertifikasi",
+        "url": "https://registrasi.bpip.go.id/auth",
+        "icon-mobile": null,
+        "is-app-intra": false
+    }
   ]
 }
