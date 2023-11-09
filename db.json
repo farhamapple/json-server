@@ -97,7 +97,7 @@
         "name": "APII-KINERJA BPIP",
         "url": "https://apii-kinerja.bpip.go.id/publik",
         "icon-mobile": null,
-        "is-app-intra": fase
+        "is-app-intra": false
     },
     {
         "id": 144,
