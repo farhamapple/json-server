@@ -5,5 +5,10 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "intra-apps" : [
+    {"id" : 1, "name" : "E-Kehadiran", "url" : "https://google.com", "icon-mobile" : "Icon.home" },
+     {"id" : 2, "name" : "Simarni", "url" : "https://google.com", "icon-mobile" : "Icon.home" },
+     {"id" : 3, "name" : "Sijuki", "url" : "https://google.com", "icon-mobile" : "Icon.home" }
+  ]
 }
