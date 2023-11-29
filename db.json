@@ -1,20 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" },
-    { "id": 2, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" },
-  "intra-apps" : [
-    {
+   {
         "id": 1,
         "name": "JDIH Mobile",
         "url": "https://play.google.com/store/apps/details?id=com.jdihpbip",
         "icon-mobile": null,
         "is-app-intra": false
     },
-    
-  ]
+    { "id": 2, "title": "json-server", "author": "typicode" }
+  ],
 }
